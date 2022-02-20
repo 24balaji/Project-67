@@ -1,0 +1,39 @@
+.line {
+height: 6px;
+background-color: balck;
+width: 70px;
+margin: 8px auto;
+}
+
+#game {
+    background-color: lightcoral;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+h1 {
+font-size: 40px;
+font-family: sans-serif;
+font-weight: 300;
+}
+
+body {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: aquamarine;
+}
+
+#myCarousel img {
+margin-top: 35px;
+    height: 300px;
+}
+
+.carousel-inner p {
+margin-top: 15px;
+color: white;
+font-size: 20px;
+}
